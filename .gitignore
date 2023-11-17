@@ -129,6 +129,3 @@ dist
 .yarn/install-state.gz
 .pnp.*
 /src/_numbers-tasks.js
-
-# My tests
-test.js
